@@ -1,4 +1,4 @@
-const apikey = `49976057f73ad6509c4c381cfbb2972a`;
+const apikey = `9f22897565b785c5e1809cff5dde2ef9`;
 
 // handles submit city form
 function searchHandler(event) {
