@@ -20,7 +20,8 @@ To install this repository clone the repository to your local device.
 
 ## Usage
 
-To use this webpage visit the deployed link nd search for the city yof your choice.
+To use this webpage visit the deployed link and search for the city of your choice.
+<img width="1261" alt="Screenshot 2023-02-01 at 9 22 50 PM" src="https://user-images.githubusercontent.com/93955240/216216558-e56e3f83-5861-4b24-b4ae-b6e73bc888f7.png">
 
 ## License
 
@@ -28,7 +29,7 @@ To use this webpage visit the deployed link nd search for the city yof your choi
 
 ## Contributing
 
-Tyler Moore
+Tyler Moore, Georgia Tech TAs
 
 ## Tests
 
